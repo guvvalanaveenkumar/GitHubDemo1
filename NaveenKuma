@@ -1,0 +1,6 @@
+class NaveenKumar{
+public static void main(String []args){
+System.out.println(" naveen kumar");
+System.out.println("Sindhu ");
+}
+}
